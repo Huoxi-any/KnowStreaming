@@ -33,7 +33,7 @@
     ]
   },
   "dependencies": {
-    "@ant-design/compatible": "^1.0.8",
+    "@ant-design/compatible": "^5.0.0",
     "@ant-design/icons": "^4.6.2",
     "@types/react": "^17.0.39",
     "@types/react-copy-to-clipboard": "^5.0.2",
