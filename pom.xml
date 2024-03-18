@@ -26,14 +26,14 @@
         <swagger2.version>2.10.0</swagger2.version>
         <swagger.version>1.5.21</swagger.version>
         <kafka-clients.version>2.8.1</kafka-clients.version>
-        <kafka.version>2.8.1</kafka.version>
+        <kafka.version>3.6.1</kafka.version>
 
         <elasticsearch.version>6.6.2</elasticsearch.version>
         <mybatis-plus.version>3.4.2</mybatis-plus.version>
         <caffeine.version>2.8.8</caffeine.version>
 
         <springboot.version>2.3.7.RELEASE</springboot.version>
-        <spring.version>5.3.18</spring.version>
+        <spring.version>5.3.33</spring.version>
         <tomcat.version>9.0.41</tomcat.version>
 
         <fastjson.version>1.2.83</fastjson.version>
@@ -124,7 +124,7 @@
             <dependency>
                 <groupId>org.apache.zookeeper</groupId>
                 <artifactId>zookeeper</artifactId>
-                <version>3.6.3</version>
+                <version>3.8.3</version>
                 <exclusions>
                     <exclusion>
                         <groupId>org.slf4j</groupId>
