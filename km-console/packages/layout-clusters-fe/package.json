@@ -61,7 +61,7 @@
     "single-spa": "5.9.3",
     "single-spa-react": "2.14.0",
     "tree-changes": "0.9.1",
-    "webpack-bundle-analyzer": "^4.5.0"
+    "webpack-bundle-analyzer": "^5.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
